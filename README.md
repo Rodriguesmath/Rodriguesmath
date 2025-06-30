@@ -4,7 +4,7 @@
 - 📚 Currently Enrolled: Pursuing Computer Engineering at Instituto Federal da Paraíba.
 - 💼 Open to Job Opportunities: Actively seeking new job opportunities.
 - 👯 Looking to: Collaborate on Open-Source Projects
-- 👥 Currently collaborating on LAPLIN IFPB
+- 👥 Currently collaborating on LAPLIN-IFPB
 ## Tools and Technologies
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
