@@ -26,11 +26,11 @@
 
 ## Sobre mim
 
-Sou graduando em **Engenharia de Computação** pelo **Instituto Federal da Paraíba (IFPB)**, integrante do **Laboratório Hórus de Robótica** e atuante na **Interagi Tecnologia**, com trajetória também em pesquisa no **LAPLIN-IFPB** e formação em Sistemas Embarcados pelo **Virtus-CC**.
+Sou graduando em **Engenharia de Computação** pelo **Instituto Federal da Paraíba (IFPB)**, pesquisador no **Laboratório Hórus de Robótica** e no **LAPLIN-IFPB**, atuante na **Interagi Tecnologia** e integrante da formação em Sistemas Embarcados pelo **Virtus-CC**.
 
-- **Atuação atual:** **Laboratório Hórus de Robótica** & **Interagi Tecnologia**
-- **Formação:** Engenharia de Computação — **IFPB** (`Ele/Dele`)
-- **Pesquisa & Extensão:** Pesquisador no **LAPLIN-IFPB** | Formação **Virtus-CC** (STM32 Bare-Metal & RTOS)
+- **Atuação:** **Interagi Tecnologia**
+- **Pesquisa:** Pesquisador no **Laboratório Hórus de Robótica** & **LAPLIN-IFPB**
+- **Formação:** Engenharia de Computação — **IFPB** (`Ele/Dele`) | Formação **Virtus-CC** (STM32 Bare-Metal & RTOS)
 - **Foco técnico:** Robótica, Sistemas Embarcados (STM32F4/F7/H7, ESP32), Firmware C/C++ (padrão **ASSERT / IFPB**), Hardware Digital (SystemVerilog), Python e Desenvolvimento Web/Automação.
 
 ---
