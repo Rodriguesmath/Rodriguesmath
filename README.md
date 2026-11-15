@@ -52,6 +52,8 @@ Sou graduando em **Engenharia de Computação** pelo **Instituto Federal da Para
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white" alt="MQTT"/>
+  <img src="https://img.shields.io/badge/IoT%20%2F%20Wi--Fi-0D9488?style=flat-square" alt="IoT / Wi-Fi"/>
   <img src="https://img.shields.io/badge/FreeRTOS-2D7A31?style=flat-square&logo=arm&logoColor=white" alt="FreeRTOS"/>
   <img src="https://img.shields.io/badge/SystemVerilog-1E293B?style=flat-square&logo=intel&logoColor=white" alt="SystemVerilog"/>
   <img src="https://img.shields.io/badge/I2C%20%7C%20SPI%20%7C%20UART%20%7C%20DMA-0284C7?style=flat-square" alt="Periféricos"/>
@@ -96,6 +98,14 @@ Sou graduando em **Engenharia de Computação** pelo **Instituto Federal da Para
 | [**lab4-adc-dac-dma**](https://github.com/Rodriguesmath/lab4-adc-dac-dma) | Potenciômetro digital óptico (Vactrol) em malha fechada (AGC) com ADC/DAC de 12 bits, atualização de LUT via UART DMA e RMSE. | `ADC` `DAC` `DMA` |
 | [**stm32-trng-monte-carlo-pi**](https://github.com/Rodriguesmath/stm32-trng-monte-carlo-pi) | Estimativa de $\pi$ por Monte Carlo usando TRNG em hardware no STM32H723 com dashboard de telemetria em tempo real. | `STM32H723` `TRNG` `Telemetria` |
 | [**stm32f7-bsp**](https://github.com/Rodriguesmath/stm32f7-bsp) | Drivers BSP desacoplados de alto nível para STM32F7 / NUCLEO-F767ZI. | `STM32F7` `BSP` `C` |
+
+### IoT, ESP32 & Conectividade (MQTT)
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| [**led-MQTT**](https://github.com/Rodriguesmath/led-MQTT) | Controle remoto e sinalização em hardware embarcado integrado ao protocolo MQTT. | `ESP32` `MQTT` `C` |
+| [**mqtt_example**](https://github.com/Rodriguesmath/mqtt_example) | Implementação de referência para publicação/assinatura de tópicos MQTT em dispositivos conectados. | `ESP32` `MQTT` `IoT` |
+| [**IoT**](https://github.com/Rodriguesmath/IoT) | Experimentos e protótipos de Internet das Coisas com sensores, atuadores e telemetria. | `ESP32` `IoT` `Conectividade` |
+| [**Painel_monitoramento**](https://github.com/Rodriguesmath/Painel_monitoramento) | Painel de monitoramento para acompanhamento de dados e telemetria em tempo real. | `Java` `Monitoramento` |
 
 ### Hardware Digital & Software
 | Projeto | Descrição | Tecnologias |
