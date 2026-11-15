@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=130&section=header&text=Rodrigues%20Matheus&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+Rodrigues+Matheus!;Engenharia+de+Computa%C3%A7%C3%A3o+%40+IFPB;Sistemas+Embarcados+%7C+STM32+%7C+Python+%7C+C%2FC%2B%2B" alt="Apresentação Rodriguesmath"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Engenharia+de+Computa%C3%A7%C3%A3o+%40+IFPB;Laborat%C3%B3rio+H%C3%B3rus+de+Rob%C3%B3tica+%F0%9F%A4%96;Interagi+Tecnologia+%F0%9F%92%BB;Sistemas+Embarcados+%7C+STM32+%7C+C%2FC%2B%2B+%7C+Python" alt="Animação de Apresentação"/>
   </a>
 </div>
 
@@ -19,24 +19,25 @@
   <a href="https://www.instagram.com/__rodriguesmath__/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <img loading="lazy" src="https://komarev.com/ghpvc/?username=Rodriguesmath&color=0EA5E9&style=for-the-badge&label=VISITAS" alt="Contador de Visitas"/>
 </div>
 
 ---
 
 ## Sobre mim
 
-Sou graduando em **Engenharia de Computação** pelo **Instituto Federal da Paraíba (IFPB)**, pesquisador no **LAPLIN-IFPB** e integrante da **Formação em Sistemas Embarcados Virtus-CC**, com foco em firmware *bare-metal* e de tempo real para microcontroladores **ARM Cortex-M (STM32)**.
+Sou graduando em **Engenharia de Computação** pelo **Instituto Federal da Paraíba (IFPB)**, integrante do **Laboratório Hórus de Robótica** e atuante na **Interagi Tecnologia**, com trajetória também em pesquisa no **LAPLIN-IFPB** e formação em Sistemas Embarcados pelo **Virtus-CC**.
 
-- **Formação:** Engenharia de Computação — IFPB (`Ele/Dele`)
-- **Pesquisa:** Pesquisador no **LAPLIN-IFPB**
-- **Especialização em curso:** Sistemas Embarcados *Bare-Metal* e RTOS no **Virtus-CC** (STM32F4, STM32F7, STM32H7)
-- **Interesses principais:** Arquitetura de firmware modular (padrão **ASSERT / IFPB**), drivers de periféricos, DSP embarcado, ultra-baixo consumo, hardware digital (SystemVerilog) e automação com Python.
+- **Atuação atual:** **Laboratório Hórus de Robótica** & **Interagi Tecnologia**
+- **Formação:** Engenharia de Computação — **IFPB** (`Ele/Dele`)
+- **Pesquisa & Extensão:** Pesquisador no **LAPLIN-IFPB** | Formação **Virtus-CC** (STM32 Bare-Metal & RTOS)
+- **Foco técnico:** Robótica, Sistemas Embarcados (STM32F4/F7/H7, ESP32), Firmware C/C++ (padrão **ASSERT / IFPB**), Hardware Digital (SystemVerilog), Python e Desenvolvimento Web/Automação.
 
 ---
 
 ## Stack Tecnológica
 
-### Sistemas Embarcados & Hardware
+### Sistemas Embarcados, Robótica & Hardware
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -92,8 +93,28 @@ Sou graduando em **Engenharia de Computação** pelo **Instituto Federal da Para
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Rodriguesmath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Rodriguesmath" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodriguesmath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas por Rodriguesmath" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodriguesmath&theme=tokyonight" alt="Resumo do Perfil GitHub"/>
+</div>
+
+<div align="center">
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodriguesmath&theme=tokyonight" alt="Estatísticas do GitHub"/>
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rodriguesmath&theme=tokyonight" alt="Linguagens por Commit"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Rodriguesmath&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+</div>
+
+---
+
+## Contribuições em Ação
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rodriguesmath/Rodriguesmath/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rodriguesmath/Rodriguesmath/output/github-contribution-grid-snake.svg">
+    <img alt="Animação Snake das Contribuições" src="https://raw.githubusercontent.com/Rodriguesmath/Rodriguesmath/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E293B,100:0F172A&height=90&section=footer"/>
