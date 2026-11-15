@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Engenharia+de+Computa%C3%A7%C3%A3o+%40+IFPB;Laborat%C3%B3rio+H%C3%B3rus+de+Rob%C3%B3tica+%F0%9F%A4%96;Interagi+Tecnologia+%F0%9F%92%BB;Sistemas+Embarcados+%7C+STM32+%7C+C%2FC%2B%2B+%7C+Python" alt="Animação de Apresentação"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Engenharia+de+Computa%C3%A7%C3%A3o+%40+IFPB;Laborat%C3%B3rio+H%C3%B3rus+de+Rob%C3%B3tica+%F0%9F%A4%96;Interagi+Tecnologia+%F0%9F%92%BB;Agentes+de+IA+%26+Sistemas+Multi-Agentes+%E2%9A%A1;Sistemas+Embarcados+%7C+STM32+%7C+C%2FC%2B%2B+%7C+Python" alt="Animação de Apresentação"/>
   </a>
 </div>
 
@@ -31,11 +31,20 @@ Sou graduando em **Engenharia de Computação** pelo **Instituto Federal da Para
 - **Atuação:** **Interagi Tecnologia**
 - **Pesquisa:** Pesquisador no **Laboratório Hórus de Robótica** & **LAPLIN-IFPB**
 - **Formação:** Engenharia de Computação — **IFPB** (`Ele/Dele`) | Formação **Virtus-CC** (STM32 Bare-Metal & RTOS)
-- **Foco técnico:** Robótica, Sistemas Embarcados (STM32F4/F7/H7, ESP32), Firmware C/C++ (padrão **ASSERT / IFPB**), Hardware Digital (SystemVerilog), Python e Desenvolvimento Web/Automação.
+- **Foco técnico:** **Agentes de IA & Sistemas Multi-Agentes** (orquestração hierárquica, protocolos *token-friendly*, *quality gates* e *agent skills*), **Robótica & Sistemas Embarcados** (STM32F4/F7/H7, ESP32, firmware C/C++ padrão **ASSERT / IFPB**), Hardware Digital (SystemVerilog) e Desenvolvimento Web/Automação.
 
 ---
 
 ## Stack Tecnológica
+
+### Agentes de IA & Sistemas Multi-Agentes
+<p>
+  <img src="https://img.shields.io/badge/Multi--Agent%20Systems-6366F1?style=flat-square&logo=openai&logoColor=white" alt="Multi-Agent Systems"/>
+  <img src="https://img.shields.io/badge/Google%20Antigravity%20%2F%20Gemini%20CLI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Antigravity"/>
+  <img src="https://img.shields.io/badge/Model%20Routing%20%26%20Evals-0EA5E9?style=flat-square" alt="Model Routing e Evals"/>
+  <img src="https://img.shields.io/badge/Agent%20Skills%20%26%20MCP-10B981?style=flat-square" alt="Agent Skills e MCP"/>
+  <img src="https://img.shields.io/badge/Graphify%20(Knowledge%20Graphs)-8B5CF6?style=flat-square" alt="Graphify"/>
+</p>
 
 ### Sistemas Embarcados, Robótica & Hardware
 <p>
@@ -70,6 +79,12 @@ Sou graduando em **Engenharia de Computação** pelo **Instituto Federal da Para
 
 ## Projetos em Destaque
 
+### Agentes de IA & Sistemas Multi-Agentes
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| [**antigravity-flow**](https://github.com/Rodriguesmath/antigravity-flow) | Arquitetura de orquestração multi-agente para Google Antigravity / Gemini CLI com cascata adaptativa em 3 níveis, frota **Enterprise Multi-Agent** (`flash-explorer`, `flash-implementer`, `flash-qa-gatekeeper`, `flash-security-auditor`), protocolo *Pass-by-Reference*, integração **Graphify** e skills (`caveman`, `ponytail`). | `Multi-Agent` `Orchestration` `Python` |
+| [**volto-light-theme-skills**](https://github.com/Rodriguesmath/volto-light-theme-skills) | Ecossistema de *skills* determinísticas, hooks automáticos, linter sem dependências e suíte de *evals* ao vivo (`6/6 passed`) compatível com 6 agentes de codificação (Claude, Antigravity, Gemini, Codex, Vibe) para Plone 6 / Volto. | `Agent Skills` `Evals` `Plone 6` `TypeScript` |
+
 ### Sistemas Embarcados (STM32 Bare-Metal & Virtus-CC)
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
@@ -81,11 +96,9 @@ Sou graduando em **Engenharia de Computação** pelo **Instituto Federal da Para
 | [**stm32-trng-monte-carlo-pi**](https://github.com/Rodriguesmath/stm32-trng-monte-carlo-pi) | Estimativa de $\pi$ por Monte Carlo usando TRNG em hardware no STM32H723 com dashboard de telemetria em tempo real. | `STM32H723` `TRNG` `Telemetria` |
 | [**stm32f7-bsp**](https://github.com/Rodriguesmath/stm32f7-bsp) | Drivers BSP desacoplados de alto nível para STM32F7 / NUCLEO-F767ZI. | `STM32F7` `BSP` `C` |
 
-### Software, Hardware Digital & Ferramentas
+### Hardware Digital & Software
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| [**antigravity-flow**](https://github.com/Rodriguesmath/antigravity-flow) | Workflows de orquestração, protocolos de subagentes e skills customizadas para agentes de codificação. | `Python` `AI Agents` `CLI` |
-| [**volto-light-theme-skills**](https://github.com/Rodriguesmath/volto-light-theme-skills) | Skills de engenharia seguras para atualização em Plone 6, Volto e Volto Light Theme. | `Plone 6` `Volto` `TypeScript` |
 | [**smart-lighting-system**](https://github.com/Rodriguesmath/smart-lighting-system) | Sistema de iluminação inteligente com acionamento automático via sensor infravermelho e controle manual em FPGA/HDL. | `SystemVerilog` `HDL` |
 
 ---
